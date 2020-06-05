@@ -1,6 +1,8 @@
 ## UNET++ model architecture code is mostly from Unet Plus Plus with EfficientNet Encoder from Kaggle
 ## https://www.kaggle.com/meaninglesslives/nested-unet-with-efficientnet-encoder
 
+## Snapshot ensemble code for Keras is from the link below
+## https://github.com/titu1994/Snapshot-Ensembles    
 
 from __future__ import absolute_import
 from __future__ import division
